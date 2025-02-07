@@ -711,9 +711,6 @@ section,
   transition: 0.9s;
   background-color: var(--accent-color);
 }
-.my-button.content p{
-  color:#060606;
-}
 
 /*--------------------------------------------------------------
 # Resume Section
